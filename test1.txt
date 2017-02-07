@@ -1,0 +1,10 @@
+ Volume in drive C is OS
+ Volume Serial Number is FC05-05F6
+
+ Directory of C:\Users\M1023172\Desktop\MyProject
+
+02/07/2017  01:58 PM    <DIR>          .
+02/07/2017  01:58 PM    <DIR>          ..
+02/07/2017  01:58 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  55,166,033,920 bytes free
